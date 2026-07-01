@@ -1,0 +1,28 @@
+'MODERN NIGHT CITY"
+
+  This night city package contains more than 100 game ready objects with their crosponding prefabs.
+High resulation 4 Atlasted textures used and resulation about 4096X4096,2048X2048 and 1024x1024.
+
+All models are very low poly and polyogon less than 500.All models are made in 3dx max and most of 
+the textures are come from texture.com.
+
+contains:
+ 30+ buildings
+phonbooth,
+Traffic light,
+Road segments
+Banner 
+Festunes,
+Billboard,
+sidewalk
+shops
+Hotels
+Bus stops
+road barrier
+Cone 
+Petrolpump
+Pillar
+Refregerator
+Overhead sign.
+
+If you have any qestion about this package please contact me:olivejuci00706@gmail.com
