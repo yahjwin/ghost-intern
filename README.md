@@ -18,6 +18,14 @@
 
 ---
 
+## 🎬 Demo Play
+
+[![Ghost Intern Demo](https://img.youtube.com/vi/FYu-GhskwD0/0.jpg)](https://youtu.be/FYu-GhskwD0)
+
+> 이미지를 클릭하면 전체 플레이 영상을 확인할 수 있습니다.
+
+---
+
 ## Project Information
 
 | Category        | Description           |
